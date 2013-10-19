@@ -1,0 +1,15 @@
+GET /modelviewer/modelviewer_scale.swf?4 
+GET /modelviewer/badge.png
+GET /modelviewer/minalpha/textures/character/scourge/female/scourgefemaleskin00_00.png 
+GET /modelviewer/minalpha/textures/character/scourge/hair01_00.png HTTP/1.1
+GET /modelviewer/models/item/objectcomponents/weapon/offhand_dalaran_d_01.mom
+GET /modelviewer/minalpha/textures/character/scourge/female/scourgefemalefaceupper00_00.png 
+GET /modelviewer/models/armor/20/54268.sis 
+GET /modelviewer/models/armor/7/55170.sis
+GET /modelviewer/minalpha/textures/item/objectcomponents/shoulder/robe_northrend_b_02yellow.png
+GET /modelviewer/minalpha/textures/item/texturecomponents/armuppertexture/robe_raidmage_c_02purple_sleeve_au_u.png 
+GET /modelviewer/minalpha/textures/item/texturecomponents/torsolowertexture/robe_raidmage_c_02purple_chest_tl_f.png
+GET /modelviewer/minalpha/textures/item/texturecomponents/leguppertexture/robe_northrend_d_01green_belt_lu_u.png 
+GET /modelviewer/minalpha/textures/item/texturecomponents/leglowertexture/robe_raidpriest_c_02red_boot_ll_u.png
+GET /modelviewer/minalpha/textures/item/texturecomponents/armlowertexture/robe_raidmage_c_02purple_glove_al_u.png 
+GET /modelviewer/minalpha/textures/item/texturecomponents/torsouppertexture/tabard_a_01wyrmrest_chest_tu_f.png 
